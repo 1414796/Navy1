@@ -1,0 +1,26 @@
+.left-site {
+	float: left;
+}
+
+.center-site {
+
+}
+
+.reset_pass1 {
+    margin-top: 13px!important;
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 3%;
+  padding-top: 15px;
+  width: 100%;
+  background-color: #f2f5f9;
+  color: black;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  background-position: center;
+  text-align: center;
+}

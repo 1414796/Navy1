@@ -1,0 +1,64 @@
+.site_title span {
+    margin-left: 5%
+}
+
+.right_col {
+    min-height: 0 !important;
+}
+
+.x_title {
+    padding-top: 8px !important;
+}
+
+.tb-check {
+    width: 1%;
+}
+
+.tb-name {
+    max-width: 20%;
+}
+
+.tb-type {
+    width: 20%;
+}
+
+.tb-id {
+    width: 10%;
+}
+
+.tb-inDate {
+    width: 10%;
+}
+
+.tb-outDate {
+    width: 10%;
+}
+
+.tb-status {
+    width: 7%;
+}
+
+.resize {
+    font-size: large;
+}
+
+.margin-inside {
+    margin: 10%;
+}
+
+.btn-add {
+    border-radius: 37%;
+}
+
+.row-format {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.format-label {
+    padding-top: 2%;
+}
+
+.format-input {
+    border-radius: 3px;
+}
